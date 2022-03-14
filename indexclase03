@@ -18,9 +18,9 @@
             <div class="row py-4">
                 <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
 
-                    <h1 class="mb-3 mt-5 text-center display-5 ">Reemplaza este título</h1>
+                    <h1 class="mb-3 mt-5 text-center display-5 ">Presentar vs Representar</h1>
 
-                    <h2 class="mb-5 text-center text-uppercase fs-5">Nombre Apellido</h2>
+                    <h2 class="mb-5 text-center text-uppercase fs-5">Josefina Espinosa</h2>
 
                     <p class="lead">Reemplaza este párrafo con un texto introductorio, de una extensión máxima de cien palabras. En este y todos los reemplazos, respeta los colores del código fuente en tu editor. Los colores son indicaciones. Imagina que el editor de código fuente te está indicando: En el lenguaje que reconozco, esto es algo que no debes confundir con eso.</p>
 
@@ -38,15 +38,15 @@
                 <!--primer gráfico figurativo-->
                 <div class="col-12 col-sm-6">
                     <figure class="shadow-sm">
-                        <img loading="lazy" src="img/f1.png" class="w-100" alt=" Los Estados Unidos ofrece la velocidad promedio más lenta entre los 15 mercados líderes de 5G." />
+                        <img loading="lazy" src="img/f1.png" class="w-100" alt="Los Estados Unidos ofrece la velocidad promedio más lenta entre los 15 mercados líderes de 5G." />
                         <figcaption class="p-3">Fuente: <a href="https://graphics.reuters.com/USA-5G/jnpweyldnpw/index.html">THE U.S. RANKS 15TH AMONG LEADING 5G MARKETS</a>.</figcaption>
                     </figure>
                 </div>
                 <!--segundo gráfico figurativo-->
                 <div class="col-12 col-sm-6">
                     <figure class="shadow-sm">
-                        <img loading="lazy" src="img/f2.png" class="w-100" alt="describe lo que se ve en la imagen" />
-                        <figcaption class="p-3">Fuente: <a href="#">Indica la fuente</a>.</figcaption>
+                        <img loading="lazy" src="img/f2.png" class="w-100" alt="Vuelve el béisbol de las Grandes Ligas. Los fanáticos llenaron los bares y restaurantes por el retorno del béisbol despues de la pandemia." />
+                        <figcaption class="p-3">Fuente: <a href="https://graphics.reuters.com/USA-ECONOMY/BASEBALL/xklpywknmpg/">Change in game day foot traffic around Petco Park</a>.</figcaption>
                     </figure>
                 </div>
                 <!--tercer gráfico figurativo-->
